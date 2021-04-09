@@ -10,15 +10,15 @@ Nesse semestre teremos um novo **desafio** no desenvolvimento do projeto, onde v
 
 + **Opção 1** - Construir um **Sistema WEB** publicado em algum **sistema de nuvem (*Cloud*)** como: [*Amazon AWS*](https://aws.amazon.com/pt/), [*Heroku*](https://www.heroku.com/) e [*Microsoft Azure*](https://azure.microsoft.com/pt-br/) **ou** Plataformas de **Hospedagem Gratuitas** como o [*Awardspace*]([AwardSpace](https://www.awardspace.com/)) e [*000webhost*](https://www.000webhost.com/)).
 
-+ **O que desenvolver?**
-  + Uma página Institucional;
-  + Um Blog;
-  + Uma API<sup>[1](#myfootnote1)</sup> (Webservice);
-  + Um sistema *on-line* com cadastro de Produtos e/ou Clientes;
-  + Um Jogo *online* ou;
-  + Um Aplicativo Móvel (Android, Flutter, React, etc.)
-    
-  
+	+ **O que desenvolver?**
+	  + Uma página Institucional;
+	  + Um Blog;
+	  + Uma API<sup>[1](#myfootnote1)</sup> (Webservice);
+	  + Um sistema *on-line* com cadastro de Produtos e/ou Clientes;
+	  + Um Jogo *online* ou;
+	  + Um Aplicativo Móvel (Android, Flutter, React, etc.)
+	    
+	  
 + **Opção 2** - Aplicar os conceitos de **DevOps** no projeto em andamento, originado dos semestres anteriores ou em um novo projeto.
 	+ **O que desenvolver?**
 	    + Uma documentação conforme os conhecimentos adquiridos durantes as aulas, contendo os elementos necessários para a sua condução.
