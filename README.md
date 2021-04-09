@@ -10,7 +10,7 @@ Nesse semestre teremos um novo **desafio** no desenvolvimento do projeto, onde v
 
 + **Opção 1** - Construir um **Sistema WEB** publicado em algum **sistema de nuvem (*Cloud*)** como: [*Amazon AWS*](https://aws.amazon.com/pt/), [*Heroku*](https://www.heroku.com/) e [*Microsoft Azure*](https://azure.microsoft.com/pt-br/) **ou** Plataformas de **Hospedagem Gratuitas** como o [*Awardspace*]([AwardSpace](https://www.awardspace.com/)) e [*000webhost*](https://www.000webhost.com/)).
 
-  + **O que desenvolver?**
++ **O que desenvolver?**
   + Uma página Institucional;
   + Um Blog;
   + Uma API<sup>[1](#myfootnote1)</sup> (Webservice);
@@ -20,21 +20,21 @@ Nesse semestre teremos um novo **desafio** no desenvolvimento do projeto, onde v
     
   
 + **Opção 2** - Aplicar os conceitos de **DevOps** no projeto em andamento, originado dos semestres anteriores ou em um novo projeto.
-+ **O que desenvolver?**
-    + Uma documentação conforme os conhecimentos adquiridos durantes as aulas, contendo os elementos necessários para a sua condução.
-    	+ Estruturação de uma esteira **DevOps** com base em um diagnóstico (escolha um cenário hipotético).
-      	+ Calcular a eficiência da esteira e dizer onde deve-se automatizar.
-      + Se tiver que usar integração contínua, dizer que **Jenkins** possa funcionar no contexto.
+	+ **O que desenvolver?**
+	    + Uma documentação conforme os conhecimentos adquiridos durantes as aulas, contendo os elementos necessários para a sua condução.
+	    	+ Estruturação de uma esteira **DevOps** com base em um diagnóstico (escolha um cenário hipotético).
+	      	+ Calcular a eficiência da esteira e dizer onde deve-se automatizar.
+	      + Se tiver que usar integração contínua, dizer que **Jenkins** possa funcionar no contexto.
 
-  + **Material de Apoio:**
-    + Utilizar o material disponível no APPA para a construção da documentação, de acordo com o alinhamento ao projeto.
-    + [DevOps: o que é isso? ](https://artia.com/blog/devops/) - Artia.com
-    + [Microsoft DevOps](https://azure.microsoft.com/pt-br/overview/what-is-devops/)
+	  + **Material de Apoio:**
+	    + Utilizar o material disponível no APPA para a construção da documentação, de acordo com o alinhamento ao projeto.
+	    + [DevOps: o que é isso? ](https://artia.com/blog/devops/) - Artia.com
+	    + [Microsoft DevOps](https://azure.microsoft.com/pt-br/overview/what-is-devops/)
 
 + **Opção 3** - Aplicar conceitos de **Metodologias Ágeis** e **Gerenciamento de Serviços** no projeto em andamento, originado dos semestres anteriores ou em um novo projeto.
   + **O que desenvolver?**
     + Um  projeto de **Qualidade ou Gerenciamento de Serviços** em TI (**ISO/IEC 20000**) e/ou (**ITIL**);
-    
+
   + Modelos para se basearem:
     + [Projeto de Implantação do Modelo Gestão ITIL | Cobit | Itil (scribd.com)](https://pt.scribd.com/doc/3145173/Projeto-de-Implantacao-do-Modelo-Gestao-ITIL)
     + [Um estudo de caso em  uma empresa de suporte remoto em Tecnologia da  Informação]([https://www.revistasg.uff.br/sg/article/download/V5N2A2/V5N2A2/0)
