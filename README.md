@@ -34,9 +34,10 @@ Nesse semestre teremos um novo **desafio** no desenvolvimento do projeto, onde v
 + **Opção 3** - Aplicar conceitos de **Metodologias Ágeis** e **Gerenciamento de Serviços** no projeto em andamento, originado dos semestres anteriores ou em um novo projeto.
   + **O que desenvolver?**
     + Um  projeto de **Qualidade ou Gerenciamento de Serviços** em TI (**ISO/IEC 20000**) e/ou (**ITIL**);
-      + Modelos para se basearem:
-        + [Projeto de Implantação do Modelo Gestão ITIL | Cobit | Itil (scribd.com)](https://pt.scribd.com/doc/3145173/Projeto-de-Implantacao-do-Modelo-Gestao-ITIL)
-        + [Um estudo de caso em  uma empresa de suporte remoto em Tecnologia da  Informação]([https://www.revistasg.uff.br/sg/article/download/V5N2A2/V5N2A2/0)
+    
+  + Modelos para se basearem:
+    + [Projeto de Implantação do Modelo Gestão ITIL | Cobit | Itil (scribd.com)](https://pt.scribd.com/doc/3145173/Projeto-de-Implantacao-do-Modelo-Gestao-ITIL)
+    + [Um estudo de caso em  uma empresa de suporte remoto em Tecnologia da  Informação]([https://www.revistasg.uff.br/sg/article/download/V5N2A2/V5N2A2/0)
 
 Em ambos os casos, a entrega será realizada via [**GitHub**](http://www.github.com). Neste [link](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x) está disponível um tutorial sobre Git e GitHub.
 
