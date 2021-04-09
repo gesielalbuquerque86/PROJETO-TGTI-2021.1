@@ -39,6 +39,8 @@ Nesse semestre teremos um novo **desafio** no desenvolvimento do projeto, onde v
     + [Projeto de Implantação do Modelo Gestão ITIL | Cobit | Itil (scribd.com)](https://pt.scribd.com/doc/3145173/Projeto-de-Implantacao-do-Modelo-Gestao-ITIL)
     + [Um estudo de caso em  uma empresa de suporte remoto em Tecnologia da  Informação]([https://www.revistasg.uff.br/sg/article/download/V5N2A2/V5N2A2/0)
 
++ **Opção 4** - Desenvolver um Plano de Negócios (Empreendedorismo)
+
 Em ambos os casos, a entrega será realizada via [**GitHub**](http://www.github.com). Neste [link](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x) está disponível um tutorial sobre Git e GitHub.
 
 ## Grupos
