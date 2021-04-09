@@ -22,6 +22,10 @@ Nesse semestre teremos um novo **desafio** no desenvolvimento do projeto, onde v
 + **Opção 2** - Aplicar os conceitos de **DevOps** no projeto em andamento, originado dos semestres anteriores ou em um novo projeto.
 + **O que desenvolver?**
     + Uma documentação conforme os conhecimentos adquiridos durantes as aulas, contendo os elementos necessários para a sua condução.
+    	+ Estruturação de uma esteira **DevOps** com base em um diagnóstico (escolha um cenário hipotético).
+      	+ Calcular a eficiência da esteira e dizer onde deve-se automatizar.
+      + Se tiver que usar integração contínua, dizer que **Jenkins** possa funcionar no contexto.
+
   + **Material de Apoio:**
     + Utilizar o material disponível no APPA para a construção da documentação, de acordo com o alinhamento ao projeto.
     + [DevOps: o que é isso? ](https://artia.com/blog/devops/) - Artia.com
